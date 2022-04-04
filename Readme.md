@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Дмитрий1408 Шентяков](https://up.htmlacademy.ru/adaptive/25/user/1692153).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров] (https://up.htmlacademy.ru/profession/frontender/13/adaptive/25/user/7956).
 
 ---
 
